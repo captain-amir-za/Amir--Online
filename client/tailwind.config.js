@@ -1,0 +1,1 @@
+module.exports = {\n  content: [\n    './pages/**/*.{js,ts,jsx,tsx}',\n    './components/**/*.{js,ts,jsx,tsx}',\n  ],\n  theme: {\n    extend: {\n      colors: {\n        amir: {\n          dark: '#8B0000',\n          gold: '#FFD700',\n          light: '#F5F5F5',\n        }\n      },\n    },\n  },\n  plugins: [],\n}
