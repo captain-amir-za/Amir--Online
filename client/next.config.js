@@ -1,0 +1,1 @@
+const nextConfig = {\n  images: {\n    unoptimized: true,\n    domains: ['localhost', 'res.cloudinary.com'],\n  },\n  reactStrictMode: true,\n}\nmodule.exports = nextConfig
